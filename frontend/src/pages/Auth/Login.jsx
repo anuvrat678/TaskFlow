@@ -15,7 +15,7 @@ const Login = () => {
 
   return (
     <Authlayout>
-      <div className="bg-gray-900/60 backdrop-blur-lg p-8 rounded-xl shadow-lg w-full max-w-md mx-auto">
+      <div className="bg-gray-900/60 backdrop-blur-lg p-8 rounded-xl shadow-lg w-full max-w-lg mx-auto">
         
         <h2 className="text-3xl font-bold mb-6 text-center">Welcome Back!</h2>
 
